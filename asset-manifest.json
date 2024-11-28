@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tunnelbanan/static/css/main.e6c13ad2.css",
-    "main.js": "/tunnelbanan/static/js/main.7512cc57.js",
+    "main.js": "/tunnelbanan/static/js/main.e518ff57.js",
     "static/js/453.771811c6.chunk.js": "/tunnelbanan/static/js/453.771811c6.chunk.js",
     "index.html": "/tunnelbanan/index.html",
     "main.e6c13ad2.css.map": "/tunnelbanan/static/css/main.e6c13ad2.css.map",
-    "main.7512cc57.js.map": "/tunnelbanan/static/js/main.7512cc57.js.map",
+    "main.e518ff57.js.map": "/tunnelbanan/static/js/main.e518ff57.js.map",
     "453.771811c6.chunk.js.map": "/tunnelbanan/static/js/453.771811c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.7512cc57.js"
+    "static/js/main.e518ff57.js"
   ]
 }
