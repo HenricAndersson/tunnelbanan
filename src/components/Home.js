@@ -1,6 +1,6 @@
 import logo from "../logo.svg";
 
-function Home() {
+export function Home() {
     return (
         <div className="App">
             <header className="App-header">
@@ -9,5 +9,3 @@ function Home() {
         </div>
     );
 }
-
-export default Home;
